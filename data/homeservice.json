@@ -1,0 +1,24 @@
+[
+    {
+      "_id": "s1",
+      "title": "ROOF GARDENING",
+      "image_url": "https://i.postimg.cc/T2ZjZgYS/pinterest-roundups-landscape-and-urbanism-roof-gardens-dezeen-2364-ss-0-1-852x608.jpg",
+      "details": "Build your own Roof Garden. Our options vary from providing fresh food, temperature control,medicinal plants to decorative options - as per your requirement.",
+      "price" : "$50"
+    },
+    {
+      "_id": "s2",
+      "title": "INDOOR GARDENING",
+      "image_url": "https://i.postimg.cc/fLykb25K/gardenindoors2.jpg",
+      "details": "Don't have place in your roof? Let's build your own garden inside your home. We have a wide range of plants that are suitable for indirect sunlight and perfect for your balcony or veranda.",
+      "price" : "$50"
+    },
+  
+    {
+      "_id": "s3",
+      "title": "LANDSCAPING",
+      "image_url": "https://i.postimg.cc/t4F60Mmn/istockphoto-92624397-612x612.jpg",
+      "details": "Our landscape designer creates plans for outdoor spaces, including large-scale commercial landscapes as well as both large and small residential properties",
+      "price" : "$50"
+    }
+  ]

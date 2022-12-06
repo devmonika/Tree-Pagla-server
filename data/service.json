@@ -1,0 +1,46 @@
+[
+    {
+      
+      "title": "ROOF GARDENING",
+      "image_url": "https://i.postimg.cc/T2ZjZgYS/pinterest-roundups-landscape-and-urbanism-roof-gardens-dezeen-2364-ss-0-1-852x608.jpg",
+      "details": "Build your own Roof Garden. Our options vary from providing fresh food, temperature control,medicinal plants to decorative options - as per your requirement.",
+      "price" : "$50"
+    },
+    {
+      
+      "title": "INDOOR GARDENING",
+      "image_url": "https://i.postimg.cc/fLykb25K/gardenindoors2.jpg",
+      "details": "Don't have place in your roof? Let's build your own garden inside your home. We have a wide range of plants that are suitable for indirect sunlight and perfect for your balcony or veranda.",
+      "price" : "$50"
+    },
+  
+    {
+      
+      "title": "LANDSCAPING",
+      "image_url": "https://i.postimg.cc/t4F60Mmn/istockphoto-92624397-612x612.jpg",
+      "details": "Our landscape designer creates plans for outdoor spaces, including large-scale commercial landscapes as well as both large and small residential properties",
+      "price" : "$50"
+    },
+    {
+      
+      "title": "AUTOMATIC IRRIGATION",
+      "image_url": "https://i.postimg.cc/MG8yvSjY/automatic-lawn-sprinkler-watering-green-grass-system-garden-irrigation-water-saving-conservation-adj.jpg",
+      "details": "We provide state of the art equipment and installation to our customers. Our irrigation systems provide timed and measured hydration. All equipment we use is subjected to exhaustive testing for endurance and uniformity.",
+      "price" : "$50"
+    },
+  
+    {
+      
+      "title": "WATER GARDENING",
+      "image_url": "https://i.postimg.cc/9fTJnbyL/home-garden-pond1.jpg",
+      "details": "Adding a water feature, like a pond, gives any outdoor space a unique and relaxing feel. Whether you are a homeowner or a business owner, adding one to your property can turn your area into a tranquil retreat.",
+      "price" : "$50"
+    },
+    {
+      
+      "title": "ROCK GARDENING/ TOPIARY",
+      "image_url": "https://i.postimg.cc/jdq9TZm2/ef4bec462ed92f61c303b73e55b05365.jpg",
+      "details": "You can choose from a range of classic and contemporary rock garden features to give your garden the stylish finish it may need. From stylish dramatic designs to gently bubbling brooks, Rock Gardens have the ideal centerpiece for your design scheme. ",
+      "price" : "$50"
+    }
+  ]
